@@ -12,18 +12,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
@@ -36,5 +39,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0129-sum-root-to-leaf-numbers) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
