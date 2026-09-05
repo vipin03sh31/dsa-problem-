@@ -27,6 +27,7 @@ public:
         }
 
         number = number / 10;
+        return;
     }
 
 
