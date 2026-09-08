@@ -11,28 +11,29 @@
  */
 class Solution {
 public:
-int count = 0;
-void slove(TreeNode* root, int target ,long long sum,int &count){
-    if(root == nullptr){
-        return;
-    }
-    sum = sum + root->val;
-    if(sum == target){
-        count++;
-    }
-    slove(root->left,target,sum,count);
-    slove(root->right,target,sum,count);
-}
-    int pathSum(TreeNode* root, int targetSum) {
-        // Placeholder logic for path sum
+    void slove(TreeNode* root, long long target, long long currSum, unordered_map<long long,int>& prefixCount, int& count){
         if(root == nullptr){
-            return count;
+            return;
         }
-        slove(root,targetSum,0,count);
-        pathSum(root->left,targetSum);
-        pathSum(root->right,targetSum);
+        currSum += root->val;
 
+        if(prefixCount.find(currSum - target) != prefixCount.end()){
+            count += prefixCount[currSum - target];
+        }
+
+        prefixCount[currSum]++;
+
+        slove(root->left, target, currSum, prefixCount, count);
+        slove(root->right, target, currSum, prefixCount, count);
+
+        prefixCount[currSum]--; // backtrack: remove this path's contribution before returning to parent
+    }
+
+    int pathSum(TreeNode* root, int targetSum) {
+        unordered_map<long long,int> prefixCount;
+        prefixCount[0] = 1; // empty prefix, handles paths starting at root
+        int count = 0;
+        slove(root, targetSum, 0, prefixCount, count);
         return count;
-        
     }
 };
