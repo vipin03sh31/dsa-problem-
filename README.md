@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3904-smallest-stable-index-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0437-path-sum-iii) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0437-path-sum-iii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0437-path-sum-iii) |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,5 +129,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
