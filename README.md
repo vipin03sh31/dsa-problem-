@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0450-delete-node-in-a-bst) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0437-path-sum-iii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0938-range-sum-of-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
