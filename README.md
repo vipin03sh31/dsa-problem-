@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0002-add-two-numbers) |
+| [0836-rectangle-overlap](https://github.com/vipin03sh31/dsa-problem-/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/vipin03sh31/dsa-problem-/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
@@ -145,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vipin03sh31/dsa-problem-/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
