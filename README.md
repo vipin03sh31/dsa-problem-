@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3904-smallest-stable-index-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3904-smallest-stable-index-ii) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vipin03sh31/dsa-problem-/tree/master/0005-longest-palindromic-substring) |
 | [0115-distinct-subsequences](https://github.com/vipin03sh31/dsa-problem-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vipin03sh31/dsa-problem-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/vipin03sh31/dsa-problem-/tree/master/0222-count-complete-tree-nodes) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
