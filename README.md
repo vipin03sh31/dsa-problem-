@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0143-reorder-list) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1096-brace-expansion-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/1096-brace-expansion-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0206-reverse-linked-list) |
 ## String
 |  |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vipin03sh31/dsa-problem-/tree/master/0005-longest-palindromic-substring) |
+| [0143-reorder-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/vipin03sh31/dsa-problem-/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vipin03sh31/dsa-problem-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
