@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vipin03sh31/dsa-problem-/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vipin03sh31/dsa-problem-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/1096-brace-expansion-ii) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vipin03sh31/dsa-problem-/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vipin03sh31/dsa-problem-/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vipin03sh31/dsa-problem-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
