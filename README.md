@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0301-remove-invalid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0301-remove-invalid-parentheses) |
 | [0617-merge-two-binary-trees](https://github.com/vipin03sh31/dsa-problem-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/vipin03sh31/dsa-problem-/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/vipin03sh31/dsa-problem-/tree/master/0115-distinct-subsequences) |
 | [0208-implement-trie-prefix-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vipin03sh31/dsa-problem-/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vipin03sh31/dsa-problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
