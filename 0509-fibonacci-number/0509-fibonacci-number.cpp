@@ -1,14 +1,20 @@
 class Solution {
 public:
-    int slove(int n ){
+    // top-down approach
+    int slovewithdp(int n , vector<int>&dp){
         if(n == 0 || n == 1){
             return n;
         }
-        int ans = slove(n-1) + slove(n-2);
-        return ans;
+        if(dp[n] != -1){
+            return dp[n];
+        }
+        int ans = slovewithdp(n-1,dp) + slovewithdp(n-2,dp);
+        dp[n] = ans;
+        return dp[n];
     }
     int fib(int n) {
-        int ans = slove(n);
+        vector<int>dp(n+1,-1);
+        int ans = slovewithdp(n,dp);
         return ans;
     }
 };
