@@ -28,7 +28,7 @@ public:
     }
     int fib(int n) {
         vector<int>dp(n+1,-1);
-        int ans = slovewithdp(n,dp);
+        int ans = slovewithdp2(n);
         return ans;
     }
 };
