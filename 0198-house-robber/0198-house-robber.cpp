@@ -11,19 +11,19 @@ public:
     // }
     // 1D DP
     // top-down solution
-    int sloveusingdp(vector<int>& nums, int index, vector<int>& dp) {
-        if (index >= nums.size()) {
-            return 0;
-        }
-        if (dp[index] != -1) {
-            return dp[index];
-        }
-        int include = nums[index] + sloveusingdp(nums, index + 2, dp);
-        int exclude = 0 + sloveusingdp(nums, index + 1, dp);
-        int ans = max(include, exclude);
-        dp[index] = ans;
-        return ans;
-    }
+    // int sloveusingdp(vector<int>& nums, int index, vector<int>& dp) {
+    //     if (index >= nums.size()) {
+    //         return 0;
+    //     }
+    //     if (dp[index] != -1) {
+    //         return dp[index];
+    //     }
+    //     int include = nums[index] + sloveusingdp(nums, index + 2, dp);
+    //     int exclude = 0 + sloveusingdp(nums, index + 1, dp);
+    //     int ans = max(include, exclude);
+    //     dp[index] = ans;
+    //     return ans;
+    // }
     // slove using tabulation or bottow up approach
     int sloveusingtab(vector<int>& nums) {
         int n = nums.size();
