@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vipin03sh31/dsa-problem-/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0665-non-decreasing-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vipin03sh31/dsa-problem-/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/vipin03sh31/dsa-problem-/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/vipin03sh31/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/vipin03sh31/dsa-problem-/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipin03sh31/dsa-problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
