@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/vipin03sh31/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vipin03sh31/dsa-problem-/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
