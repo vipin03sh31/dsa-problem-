@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vipin03sh31/dsa-problem-/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vipin03sh31/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -428,4 +431,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
