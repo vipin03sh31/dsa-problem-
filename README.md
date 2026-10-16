@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/vipin03sh31/dsa-problem-/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipin03sh31/dsa-problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipin03sh31/dsa-problem-/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/1382-balance-a-binary-search-tree) |
 ## Hash Table
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3525-find-x-value-of-array-ii) |
@@ -433,10 +437,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
