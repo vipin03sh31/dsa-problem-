@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/vipin03sh31/dsa-problem-/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 | [0493-reverse-pairs](https://github.com/vipin03sh31/dsa-problem-/tree/master/0493-reverse-pairs) |
+| [0560-subarray-sum-equals-k](https://github.com/vipin03sh31/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/vipin03sh31/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipin03sh31/dsa-problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3904-smallest-stable-index-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3904-smallest-stable-index-ii) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/vipin03sh31/dsa-problem-/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/vipin03sh31/dsa-problem-/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
