@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/vipin03sh31/dsa-problem-/tree/master/1046-last-stone-weight) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipin03sh31/dsa-problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vipin03sh31/dsa-problem-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vipin03sh31/dsa-problem-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vipin03sh31/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 ## Geometry
 |  |
 | ------- |
@@ -318,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vipin03sh31/dsa-problem-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1382-balance-a-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/1382-balance-a-binary-search-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vipin03sh31/dsa-problem-/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -479,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0375-guess-number-higher-or-lower-ii) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 <!---LeetCode Topics End-->
