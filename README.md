@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vipin03sh31/dsa-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vipin03sh31/dsa-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/vipin03sh31/dsa-problem-/tree/master/3870-count-commas-in-range) |
+| [3886-sum-of-sortable-integers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -280,10 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/vipin03sh31/dsa-problem-/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3886-sum-of-sortable-integers) |
 ## Enumeration
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
