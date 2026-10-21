@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vipin03sh31/dsa-problem-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vipin03sh31/dsa-problem-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/vipin03sh31/dsa-problem-/tree/master/0128-longest-consecutive-sequence) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vipin03sh31/dsa-problem-/tree/master/0005-longest-palindromic-substring) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/vipin03sh31/dsa-problem-/tree/master/0143-reorder-list) |
 | [0295-find-median-from-data-stream](https://github.com/vipin03sh31/dsa-problem-/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/vipin03sh31/dsa-problem-/tree/master/0653-two-sum-iv-input-is-a-bst) |
