@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0665-non-decreasing-array](https://github.com/vipin03sh31/dsa-problem-/tree/master/0665-non-decreasing-array) |
 | [0973-k-closest-points-to-origin](https://github.com/vipin03sh31/dsa-problem-/tree/master/0973-k-closest-points-to-origin) |
+| [0983-minimum-cost-for-tickets](https://github.com/vipin03sh31/dsa-problem-/tree/master/0983-minimum-cost-for-tickets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/vipin03sh31/dsa-problem-/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/vipin03sh31/dsa-problem-/tree/master/1046-last-stone-weight) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vipin03sh31/dsa-problem-/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/0940-distinct-subsequences-ii) |
+| [0983-minimum-cost-for-tickets](https://github.com/vipin03sh31/dsa-problem-/tree/master/0983-minimum-cost-for-tickets) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/vipin03sh31/dsa-problem-/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
