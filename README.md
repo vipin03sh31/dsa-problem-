@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vipin03sh31/dsa-problem-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
