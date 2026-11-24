@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vipin03sh31/dsa-problem-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vipin03sh31/dsa-problem-/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/3524-find-x-value-of-array-i) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/vipin03sh31/dsa-problem-/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vipin03sh31/dsa-problem-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vipin03sh31/dsa-problem-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/vipin03sh31/dsa-problem-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/vipin03sh31/dsa-problem-/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vipin03sh31/dsa-problem-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vipin03sh31/dsa-problem-/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/vipin03sh31/dsa-problem-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vipin03sh31/dsa-problem-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vipin03sh31/dsa-problem-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vipin03sh31/dsa-problem-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vipin03sh31/dsa-problem-/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Segment Tree
 |  |
 | ------- |
@@ -538,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vipin03sh31/dsa-problem-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vipin03sh31/dsa-problem-/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
